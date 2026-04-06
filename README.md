@@ -45,6 +45,7 @@ Happy Coding!
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +69,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,5 +77,10 @@ Happy Coding!
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
