@@ -43,6 +43,7 @@ Happy Coding!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
@@ -59,6 +60,7 @@ Happy Coding!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
 ## Sorting
@@ -83,4 +85,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
