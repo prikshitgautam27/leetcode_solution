@@ -54,6 +54,7 @@ Happy Coding!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0647-palindromic-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
@@ -107,9 +108,14 @@ Happy Coding!
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
