@@ -84,6 +84,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0190-reverse-bits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0190-reverse-bits/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,5 +127,6 @@ Happy Coding!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0190-reverse-bits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0190-reverse-bits/) | Easy |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
