@@ -67,6 +67,7 @@ Happy Coding!
 | [0003-longest-substring-without-repeating-characters](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0647-palindromic-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Trie
@@ -162,6 +163,7 @@ Happy Coding!
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0207-course-schedule/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 ## Combinatorics
@@ -178,6 +180,7 @@ Happy Coding!
 | [0124-binary-tree-maximum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0207-course-schedule/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -209,8 +212,14 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
