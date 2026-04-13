@@ -96,6 +96,7 @@ Happy Coding!
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0190-reverse-bits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0190-reverse-bits/) | Easy |
 ## Dynamic Programming
@@ -192,5 +193,14 @@ Happy Coding!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
