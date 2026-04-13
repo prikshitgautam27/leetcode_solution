@@ -25,7 +25,7 @@ if(!node) return 0;
             maxi=max(maxi,node->val+leftmax+rightmax);
 
 
-return node->val+max(rightmax,leftmax);
+return node->val+max(rightmax,leftmax);// need to find_max_path_sum for recusive function, else maxi is already references
 
 
     }
