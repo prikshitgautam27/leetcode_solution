@@ -106,6 +106,7 @@ Happy Coding!
 | [0053-maximum-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0062-unique-paths/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0322-coin-change/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -174,6 +175,7 @@ Happy Coding!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0207-course-schedule/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -203,4 +205,12 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
