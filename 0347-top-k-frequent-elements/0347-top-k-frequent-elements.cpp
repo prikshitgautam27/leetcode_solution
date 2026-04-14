@@ -19,6 +19,7 @@ for(auto & p:fm){
 
 }
 
+// heap stores pairs as {frequency, number}
 
         vector<int>res;
          while(!min_heap.empty()){
@@ -26,7 +27,6 @@ for(auto & p:fm){
             min_heap.pop();
          }
         
-
  return res;
     }
 };
