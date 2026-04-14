@@ -68,6 +68,7 @@ Happy Coding!
 | [0003-longest-substring-without-repeating-characters](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0647-palindromic-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -75,6 +76,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +148,7 @@ Happy Coding!
 | [0073-set-matrix-zeroes](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Binary Search
@@ -229,6 +232,7 @@ Happy Coding!
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
