@@ -58,6 +58,7 @@ Happy Coding!
 | [0198-house-robber](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [0322-coin-change](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -84,6 +85,7 @@ Happy Coding!
 | [0015-3sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0283-move-zeroes](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [0647-palindromic-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
