@@ -212,6 +212,7 @@ Happy Coding!
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 ## Heap (Priority Queue)
@@ -258,4 +259,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
