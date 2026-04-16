@@ -166,6 +166,7 @@ Happy Coding!
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [0278-first-bad-version](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0278-first-bad-version/) | Easy |
 | [0704-binary-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -279,4 +280,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
