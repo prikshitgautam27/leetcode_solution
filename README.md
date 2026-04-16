@@ -194,6 +194,7 @@ Happy Coding!
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0207-course-schedule/) | Medium |
@@ -233,6 +234,7 @@ Happy Coding!
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -240,6 +242,7 @@ Happy Coding!
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
