@@ -12,7 +12,7 @@ public:
         return ans;
     }
 
-    void dfs(int row, int col, vector<vector<int>>& ans, vector<vector<int>>& image,
+    void dfs(int row, int col, vector<vector<int>>& ans, vector<vector<int>> image,
              int newcolor, int delrow[], int delcol[], int inicolor) {
 
         ans[row][col] = newcolor;
