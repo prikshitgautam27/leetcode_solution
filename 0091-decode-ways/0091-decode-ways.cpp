@@ -13,6 +13,7 @@ public:
                 cur+= prev1;
 
             }
+            // logic 2 handle 2
             int two=stoi(s.substr(i-2,2));
             if(two>=10 && two <= 26){
                 cur+=prev2;
