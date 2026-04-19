@@ -15,7 +15,7 @@ public:
             }
             // logic 2 handle 2
             int two=stoi(s.substr(i-2,2));
-            if(two>=10 && two <= 26){
+            if(two>=10 && two <= 26){// string is converted to int now so that is why 10 and 26 written without quotes
                 cur+=prev2;
 
             }
