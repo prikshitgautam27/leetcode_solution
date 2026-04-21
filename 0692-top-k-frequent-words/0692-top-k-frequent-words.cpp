@@ -6,22 +6,30 @@ public:
 for(int i=0;i<words.size();i++){
     freq[words[i]]++;
 }
-// converting freq {{'i',2},{}} to vector [('i',2),()]
-vector<pair<string,int>>vec(freq.begin(),freq.end());
         // comparator to sort
-    sort(vec.begin(),vec.end(),[](const auto&a,const auto&b){
-        if(a.second==b.second) return a.first < b.first; 
-        return a.second > b.second ;
+   auto comp = [&](const pair<string,int>& a, const pair<string,int>& b) {
+            if(a.second == b.second) {
+                return a.first < b.first; // reverse lexicographic for min-heap
+            }
+            return a.second > b.second;   // higher freq has higher priority
+        };
 
-    });
+priority_queue<pair<string,int>,vector<pair<string,int>>,decltype(comp)> pq(comp);
 
+for(auto it: freq){
+    pq.push(it);
+    if(pq.size()>k){
+        pq.pop();
+    }
 
-
-    // extracting top freq string
-    vector<string>res;// res string vector
-for(int i=0;i<k;i++){
-res.push_back(vec[i].first);
+    vector<string>res;
+    while(!pq.empty()){
+        res.push_back(pq.top().first);
+        pq.pop();
+    }
 }
-return res;
+
+
+  return res;
     }
 };
