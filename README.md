@@ -58,6 +58,7 @@ Happy Coding!
 | [0090-subsets-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
@@ -119,6 +120,7 @@ Happy Coding!
 | [0020-valid-parentheses](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +163,7 @@ Happy Coding!
 | [0048-rotate-image](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0258-add-digits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 ## Matrix
