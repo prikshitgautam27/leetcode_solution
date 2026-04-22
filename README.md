@@ -59,6 +59,7 @@ Happy Coding!
 | [0090-subsets-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0198-house-robber/) | Medium |
@@ -84,6 +85,7 @@ Happy Coding!
 | [0020-valid-parentheses](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0091-decode-ways](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0091-decode-ways/) | Medium |
+| [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0647-palindromic-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
@@ -93,6 +95,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
+| [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Two Pointers
@@ -143,6 +146,7 @@ Happy Coding!
 | [0091-decode-ways](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0091-decode-ways/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 | [0198-house-robber](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -186,6 +190,7 @@ Happy Coding!
 | [0049-group-anagrams](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
@@ -231,6 +236,7 @@ Happy Coding!
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0039-combination-sum/) | Medium |
 | [0090-subsets-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
+| [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +331,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
