@@ -54,6 +54,7 @@ Happy Coding!
 | [0055-jump-game](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0057-insert-interval/) | Medium |
+| [0064-minimum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0090-subsets-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
@@ -142,6 +143,7 @@ Happy Coding!
 | [0053-maximum-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0091-decode-ways/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -178,6 +180,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
+| [0064-minimum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
