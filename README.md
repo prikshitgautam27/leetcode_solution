@@ -66,6 +66,7 @@ Happy Coding!
 | [0198-house-robber](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0213-house-robber-ii/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -213,6 +214,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +281,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Merge Sort
@@ -351,4 +354,12 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0258-add-digits/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
