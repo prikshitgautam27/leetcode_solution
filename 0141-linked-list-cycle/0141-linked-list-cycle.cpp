@@ -6,6 +6,9 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+
+ 
+ //Floyd’s Cycle-Finding Algorithm,
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
