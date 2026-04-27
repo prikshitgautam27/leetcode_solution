@@ -58,6 +58,7 @@ Happy Coding!
 | [0064-minimum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -88,6 +89,7 @@ Happy Coding!
 | [0014-longest-common-prefix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0091-decode-ways/) | Medium |
 | [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -188,6 +190,7 @@ Happy Coding!
 | [0064-minimum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
@@ -248,11 +251,13 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0039-combination-sum/) | Medium |
+| [0079-word-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
