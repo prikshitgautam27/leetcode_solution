@@ -81,6 +81,7 @@ Happy Coding!
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
+| [3742-maximum-path-score-in-a-grid](https://github.com/prikshitgautam27/leetcode_solution/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +166,7 @@ Happy Coding!
 | [0435-non-overlapping-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0647-palindromic-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3742-maximum-path-score-in-a-grid](https://github.com/prikshitgautam27/leetcode_solution/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +198,7 @@ Happy Coding!
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
+| [3742-maximum-path-score-in-a-grid](https://github.com/prikshitgautam27/leetcode_solution/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
