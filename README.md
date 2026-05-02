@@ -210,6 +210,7 @@ Happy Coding!
 | [0133-clone-graph](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0133-clone-graph/) | Medium |
 | [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -302,6 +303,7 @@ Happy Coding!
 | [0023-merge-k-sorted-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
+| [0146-lru-cache](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -345,6 +347,7 @@ Happy Coding!
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0146-lru-cache/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -407,4 +410,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
