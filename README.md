@@ -96,6 +96,7 @@ Happy Coding!
 | [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0344-reverse-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0344-reverse-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -120,6 +121,7 @@ Happy Coding!
 | [0202-happy-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0344-reverse-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
