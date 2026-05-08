@@ -188,6 +188,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
@@ -386,6 +387,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 ## Memoization
