@@ -263,6 +263,7 @@ Happy Coding!
 | [0322-coin-change](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0743-network-delay-time/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +294,7 @@ Happy Coding!
 | [0417-pacific-atlantic-water-flow](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0743-network-delay-time/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -303,6 +305,7 @@ Happy Coding!
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0207-course-schedule/) | Medium |
+| [0743-network-delay-time](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0743-network-delay-time/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -324,6 +327,7 @@ Happy Coding!
 | [0239-sliding-window-maximum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0743-network-delay-time](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0743-network-delay-time/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,4 +431,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0146-lru-cache/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
