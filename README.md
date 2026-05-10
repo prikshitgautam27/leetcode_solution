@@ -196,6 +196,7 @@ Happy Coding!
 | [0202-happy-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [2235-add-two-integers](https://github.com/prikshitgautam27/leetcode_solution/tree/main/2235-add-two-integers/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
