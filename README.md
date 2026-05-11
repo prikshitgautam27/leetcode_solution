@@ -171,6 +171,7 @@ Happy Coding!
 | [0338-counting-bits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0338-counting-bits/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0647-palindromic-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/prikshitgautam27/leetcode_solution/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Monotonic Stack
@@ -196,6 +197,7 @@ Happy Coding!
 | [0202-happy-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/prikshitgautam27/leetcode_solution/tree/main/2235-add-two-integers/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -400,6 +402,7 @@ Happy Coding!
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
+| [1137-n-th-tribonacci-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
