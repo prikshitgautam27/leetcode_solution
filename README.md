@@ -190,6 +190,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0062-unique-paths/) | Medium |
