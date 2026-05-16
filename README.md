@@ -88,6 +88,7 @@ Happy Coding!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0008-string-to-integer-atoi](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
