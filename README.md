@@ -212,6 +212,7 @@ Happy Coding!
 | [0202-happy-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0371-sum-of-two-integers/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/prikshitgautam27/leetcode_solution/tree/main/2235-add-two-integers/) | Easy |
 ## Matrix
@@ -271,6 +272,7 @@ Happy Coding!
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0338-counting-bits/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
