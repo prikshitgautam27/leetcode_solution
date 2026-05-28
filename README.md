@@ -85,6 +85,7 @@ Happy Coding!
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/prikshitgautam27/leetcode_solution/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## String
@@ -150,6 +151,7 @@ Happy Coding!
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -167,6 +169,7 @@ Happy Coding!
 | [0190-reverse-bits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +227,7 @@ Happy Coding!
 | [0258-add-digits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/prikshitgautam27/leetcode_solution/tree/main/2235-add-two-integers/) | Easy |
 ## Matrix
@@ -371,6 +375,7 @@ Happy Coding!
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0743-network-delay-time](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0743-network-delay-time/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -435,6 +440,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,4 +498,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0176-second-highest-salary/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
