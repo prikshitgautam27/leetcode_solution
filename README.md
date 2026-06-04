@@ -87,6 +87,7 @@ Happy Coding!
 | [0704-binary-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/prikshitgautam27/leetcode_solution/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## String
@@ -278,6 +279,7 @@ Happy Coding!
 | [0300-longest-increasing-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0704-binary-search/) | Easy |
+| [1095-find-in-mountain-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -462,6 +464,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0278-first-bad-version/) | Easy |
+| [1095-find-in-mountain-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
