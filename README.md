@@ -112,6 +112,7 @@ Happy Coding!
 | [0344-reverse-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0392-is-subsequence/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -265,6 +266,7 @@ Happy Coding!
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0383-ransom-note/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Binary Search
@@ -285,6 +287,7 @@ Happy Coding!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
