@@ -1,27 +1,32 @@
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s) {
-        // Array to store the last seen index of each character (ASCII 0-127)
-        vector<int> lastIndex(128, -1);
-        int maxLength = 0;
-        int start = 0; // Left boundary of the sliding window
+    int lengthOfLongestSubstring(string s) { // Note: LeetCode uses 'lengthOfLongestSubstring'
+        unordered_map<char, int> map;
 
-        for (int end = 0; end < s.length(); ++end) {
-            char currentChar = s[end];
+        int mx = 0; // LeetCode sets empty string output to 0
+        int i = 0, j = 0;
+        int n = s.size();
+        
+        while (j < n) {
+            map[s[j]]++; // 1. Calculation
             
-            // If the character was seen before and is within the current window
-            if (lastIndex[currentChar] >= start) {
-                // Move the start of the window to one position past the previous occurrence
-                start = lastIndex[currentChar] + 1;
+            // Condition 1: All characters in the current window are unique
+            if (map.size() == j - i + 1) {
+                mx = max(mx, j - i + 1);
+                j++;
             }
-
-            // Update the last seen index of the character
-            lastIndex[currentChar] = end;
-            
-            // Calculate the current window length and update the maximum
-            maxLength = max(maxLength, end - start + 1);
+            // Condition 2: Window size is greater than unique map size (Duplicates exist!)
+            else if (map.size() < j - i + 1) {
+                while (map.size() < j - i + 1) {
+                    map[s[i]]--;
+                    if (map[s[i]] == 0) {
+                        map.erase(s[i]);
+                    }
+                    i++; // Shrink window
+                }
+                j++;
+            }
         }
-
-        return maxLength;
+        return mx;
     }
 };
