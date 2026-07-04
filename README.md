@@ -84,6 +84,7 @@ Happy Coding!
 | [0435-non-overlapping-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0695-max-area-of-island](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -245,6 +246,7 @@ Happy Coding!
 | [0079-word-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0695-max-area-of-island](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/prikshitgautam27/leetcode_solution/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Hash Table
@@ -312,6 +314,7 @@ Happy Coding!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0695-max-area-of-island](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -347,6 +350,7 @@ Happy Coding!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -355,6 +359,7 @@ Happy Coding!
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
