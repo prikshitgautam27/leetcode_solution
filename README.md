@@ -84,6 +84,7 @@ Happy Coding!
 | [0417-pacific-atlantic-water-flow](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0704-binary-search/) | Easy |
@@ -155,6 +156,7 @@ Happy Coding!
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -271,6 +273,7 @@ Happy Coding!
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Binary Search
@@ -293,6 +296,7 @@ Happy Coding!
 | [0219-contains-duplicate-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -454,6 +458,7 @@ Happy Coding!
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0383-ransom-note/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
