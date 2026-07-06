@@ -109,6 +109,7 @@ Happy Coding!
 | [0079-word-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0091-decode-ways/) | Medium |
 | [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
+| [0187-repeated-dna-sequences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -266,6 +267,7 @@ Happy Coding!
 | [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0146-lru-cache/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0202-happy-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -293,6 +295,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -301,6 +304,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
+| [0187-repeated-dna-sequences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0190-reverse-bits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
@@ -510,6 +514,7 @@ Happy Coding!
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -527,4 +532,8 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 <!---LeetCode Topics End-->
