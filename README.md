@@ -236,6 +236,7 @@ Happy Coding!
 | [0050-powx-n](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0202-happy-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0202-happy-number/) | Easy |
@@ -291,6 +292,7 @@ Happy Coding!
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
