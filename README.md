@@ -72,6 +72,7 @@ Happy Coding!
 | [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -148,6 +149,7 @@ Happy Coding!
 | [0125-valid-palindrome](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -297,6 +299,7 @@ Happy Coding!
 | [0069-sqrtx](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0278-first-bad-version/) | Easy |
