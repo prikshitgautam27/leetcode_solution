@@ -112,6 +112,7 @@ Happy Coding!
 | [0049-group-anagrams](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0091-decode-ways/) | Medium |
+| [0125-valid-palindrome](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 | [0187-repeated-dna-sequences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
@@ -144,6 +145,7 @@ Happy Coding!
 | [0018-4sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0125-valid-palindrome](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
 | [0202-happy-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0202-happy-number/) | Easy |
