@@ -6,23 +6,25 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
-
- 
- //Floyd’s Cycle-Finding Algorithm,
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        ListNode * fast =head;
-        ListNode * slow=head;
-
-
-        while(fast!=nullptr && fast->next!=nullptr){
-
+        
+        ListNode* slow=head;
+        ListNode* fast=head;
+if(head==nullptr || head->next==nullptr){
+    return false;
+}
+        while(fast!=nullptr && fast->next !=nullptr){
             slow=slow->next;
             fast=fast->next->next;
-            if(slow==fast) return true;//detected cycle
-        }
+            if(slow==fast){
+                return true;
+            }
+             
 
-return false;
+            
+        }
+        return false;
     }
 };
