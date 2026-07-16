@@ -423,6 +423,7 @@ Happy Coding!
 | [0146-lru-cache](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
