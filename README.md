@@ -149,6 +149,7 @@ Happy Coding!
 | [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0202-happy-number/) | Easy |
@@ -281,6 +282,7 @@ Happy Coding!
 | [0133-clone-graph](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0133-clone-graph/) | Medium |
 | [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0146-lru-cache](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0146-lru-cache/) | Medium |
 | [0187-repeated-dna-sequences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0202-happy-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0202-happy-number/) | Easy |
@@ -411,6 +413,7 @@ Happy Coding!
 | [0021-merge-two-sorted-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0141-linked-list-cycle](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
