@@ -129,6 +129,7 @@ Happy Coding!
 | [0516-longest-palindromic-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -186,6 +187,7 @@ Happy Coding!
 | [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
