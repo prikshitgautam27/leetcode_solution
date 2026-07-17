@@ -92,6 +92,7 @@ Happy Coding!
 | [0435-non-overlapping-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0682-baseball-game](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0682-baseball-game/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0704-binary-search/) | Easy |
@@ -187,6 +188,7 @@ Happy Coding!
 | [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0682-baseball-game](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -535,6 +537,7 @@ Happy Coding!
 | [0054-spiral-matrix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0258-add-digits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0258-add-digits/) | Easy |
+| [0682-baseball-game](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0682-baseball-game/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
