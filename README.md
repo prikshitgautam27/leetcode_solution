@@ -53,6 +53,7 @@ Happy Coding!
 | [0039-combination-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
@@ -167,6 +168,7 @@ Happy Coding!
 | ------- | ------- |
 | [0015-3sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0056-merge-intervals/) | Medium |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
@@ -365,6 +367,7 @@ Happy Coding!
 | [0022-generate-parentheses](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0047-permutations-ii/) | Medium |
 | [0079-word-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
