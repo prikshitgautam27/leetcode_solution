@@ -79,6 +79,7 @@ Happy Coding!
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0213-house-robber-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -174,6 +175,7 @@ Happy Coding!
 | [0047-permutations-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0056-merge-intervals/) | Medium |
+| [0217-contains-duplicate](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -299,6 +301,7 @@ Happy Coding!
 | [0187-repeated-dna-sequences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0202-happy-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0202-happy-number/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0217-contains-duplicate](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
