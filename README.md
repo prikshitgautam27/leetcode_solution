@@ -98,6 +98,7 @@ Happy Coding!
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0695-max-area-of-island](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0704-binary-search/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -232,6 +233,7 @@ Happy Coding!
 | [0435-non-overlapping-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -331,6 +333,7 @@ Happy Coding!
 | [0300-longest-increasing-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0704-binary-search/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -342,6 +345,7 @@ Happy Coding!
 | [0239-sliding-window-maximum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -569,6 +573,7 @@ Happy Coding!
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0187-repeated-dna-sequences/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -589,6 +594,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0187-repeated-dna-sequences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0187-repeated-dna-sequences/) | Medium |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
