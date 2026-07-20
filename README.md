@@ -367,6 +367,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0112-path-sum/) | Easy |
 | [0133-clone-graph](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0133-clone-graph/) | Medium |
@@ -401,6 +402,7 @@ Happy Coding!
 | [0079-word-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0112-path-sum/) | Easy |
@@ -477,6 +479,7 @@ Happy Coding!
 | [0094-binary-tree-inorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -496,6 +499,7 @@ Happy Coding!
 | [0094-binary-tree-inorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
