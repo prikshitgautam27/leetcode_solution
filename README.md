@@ -442,6 +442,7 @@ Happy Coding!
 | [0207-course-schedule](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0207-course-schedule/) | Medium |
 | [0743-network-delay-time](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
