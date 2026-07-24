@@ -381,6 +381,7 @@ Happy Coding!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0695-max-area-of-island](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0743-network-delay-time/) | Medium |
@@ -503,6 +504,7 @@ Happy Coding!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
