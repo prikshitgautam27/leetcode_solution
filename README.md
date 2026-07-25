@@ -190,6 +190,7 @@ Happy Coding!
 | [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +277,7 @@ Happy Coding!
 | [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [2235-add-two-integers](https://github.com/prikshitgautam27/leetcode_solution/tree/main/2235-add-two-integers/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
