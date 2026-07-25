@@ -322,6 +322,7 @@ Happy Coding!
 | [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0771-jewels-and-stones/) | Easy |
+| [1600-throne-inheritance](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1600-throne-inheritance/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -432,6 +433,7 @@ Happy Coding!
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1600-throne-inheritance](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1600-throne-inheritance/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -507,6 +509,7 @@ Happy Coding!
 | [0429-n-ary-tree-level-order-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [1600-throne-inheritance](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1600-throne-inheritance/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -537,6 +540,7 @@ Happy Coding!
 | [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [1600-throne-inheritance](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1600-throne-inheritance/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
