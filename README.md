@@ -131,6 +131,7 @@ Happy Coding!
 | [0344-reverse-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0392-is-subsequence/) | Easy |
+| [0394-decode-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0394-decode-string/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
@@ -201,6 +202,7 @@ Happy Coding!
 | [0144-binary-tree-preorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0394-decode-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0394-decode-string/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0682-baseball-game/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -576,6 +578,7 @@ Happy Coding!
 | [0050-powx-n](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0394-decode-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
