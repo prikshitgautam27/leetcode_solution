@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> frequencySort(vector<int>& nums) {
 
-        auto comp=[](pair<int, int>&a, pair<int ,int>&b){
+        auto comp=[&](pair<int, int>a, pair<int ,int>b){
             if(a.first==b.first) return a.second<b.second;
             return a.first>b.first;
 
