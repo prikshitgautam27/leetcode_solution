@@ -1,3 +1,4 @@
+//C++ Code
 /*
 // Definition for a Node.
 class Node {
@@ -19,20 +20,19 @@ public:
 */
 
 class Solution {
+    vector<int> res;
+    void preOrder(Node* root){
+        if(!root)
+            return;
+        res.push_back(root->val);
+        
+        for(auto child : root->children)
+            preOrder(child);
+        
+    }
 public:
     vector<int> preorder(Node* root) {
-        vector<int>res;
-        dfs(root,res);
-
+        preOrder(root);
         return res;
-    }
-
-    void dfs(Node* node,vector<int>&res){
-            if(node==nullptr) return ;
-        res.push_back(node->val);
-
-        for(Node* child : node->children ){
-            dfs(child,res);
-        }
     }
 };
