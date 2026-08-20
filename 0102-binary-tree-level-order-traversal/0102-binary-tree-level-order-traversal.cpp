@@ -20,8 +20,7 @@ public:
         q.push(root);
 
         while(!q.empty()){
-            TreeNode* node= q.front();
-            int size= q.size();
+             int size= q.size();
             vector<int>curlevel;
 
             for(int i=0;i<size;i++){
