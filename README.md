@@ -320,6 +320,7 @@ Happy Coding!
 | [0242-valid-anagram](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0355-design-twitter](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0355-design-twitter/) | Medium |
 | [0383-ransom-note](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0383-ransom-note/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -473,6 +474,7 @@ Happy Coding!
 | [0160-intersection-of-two-linked-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0355-design-twitter](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0355-design-twitter/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -480,6 +482,7 @@ Happy Coding!
 | [0023-merge-k-sorted-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0355-design-twitter](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0355-design-twitter/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0743-network-delay-time](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0743-network-delay-time/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -544,6 +547,7 @@ Happy Coding!
 | [0208-implement-trie-prefix-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0355-design-twitter](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0355-design-twitter/) | Medium |
 | [1600-throne-inheritance](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1600-throne-inheritance/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
