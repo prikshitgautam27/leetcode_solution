@@ -141,6 +141,7 @@ Happy Coding!
 | [1092-shortest-common-supersequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -189,6 +190,7 @@ Happy Coding!
 | [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -258,6 +260,7 @@ Happy Coding!
 | [0055-jump-game](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -327,6 +330,7 @@ Happy Coding!
 | [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0771-jewels-and-stones/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1600-throne-inheritance](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1600-throne-inheritance/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Binary Search
