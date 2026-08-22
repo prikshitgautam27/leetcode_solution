@@ -190,6 +190,7 @@ Happy Coding!
 | [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -330,6 +331,7 @@ Happy Coding!
 | [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0771-jewels-and-stones/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1600-throne-inheritance](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1600-throne-inheritance/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -396,6 +398,7 @@ Happy Coding!
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -442,6 +445,7 @@ Happy Coding!
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1600-throne-inheritance](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1600-throne-inheritance/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -520,6 +524,7 @@ Happy Coding!
 | [0429-n-ary-tree-level-order-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1600-throne-inheritance](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1600-throne-inheritance/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -544,6 +549,7 @@ Happy Coding!
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
