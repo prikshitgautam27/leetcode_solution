@@ -103,6 +103,7 @@ Happy Coding!
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1207-unique-number-of-occurrences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/prikshitgautam27/leetcode_solution/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -332,6 +333,7 @@ Happy Coding!
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1207-unique-number-of-occurrences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1600-throne-inheritance](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1600-throne-inheritance/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
