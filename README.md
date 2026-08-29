@@ -123,6 +123,7 @@ Happy Coding!
 | [0020-valid-parentheses](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
+| [0072-edit-distance](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0125-valid-palindrome/) | Easy |
@@ -238,6 +239,7 @@ Happy Coding!
 | [0063-unique-paths-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0091-decode-ways/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
