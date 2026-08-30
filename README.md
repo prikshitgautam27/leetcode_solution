@@ -72,6 +72,7 @@ Happy Coding!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0134-gas-station](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0134-gas-station/) | Medium |
 | [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -275,6 +276,7 @@ Happy Coding!
 | [0011-container-with-most-water](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0134-gas-station](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0134-gas-station/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 ## Math
