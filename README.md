@@ -104,6 +104,7 @@ Happy Coding!
 | [0704-binary-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -349,6 +350,7 @@ Happy Coding!
 | [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0771-jewels-and-stones/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -385,6 +387,7 @@ Happy Coding!
 | [0438-find-all-anagrams-in-a-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Bit Manipulation
