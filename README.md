@@ -105,6 +105,7 @@ Happy Coding!
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -371,6 +372,7 @@ Happy Coding!
 | [0540-single-element-in-a-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0704-binary-search/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -383,6 +385,7 @@ Happy Coding!
 | [0438-find-all-anagrams-in-a-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -683,4 +686,5 @@ Happy Coding!
 | [0209-minimum-size-subarray-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
