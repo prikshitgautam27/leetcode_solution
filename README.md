@@ -56,6 +56,7 @@ Happy Coding!
 | [0047-permutations-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0055-jump-game/) | Medium |
@@ -438,6 +439,7 @@ Happy Coding!
 | [0039-combination-sum](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0047-permutations-ii/) | Medium |
+| [0051-n-queens](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0090-subsets-ii/) | Medium |
 | [0140-word-break-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0140-word-break-ii/) | Hard |
@@ -692,4 +694,8 @@ Happy Coding!
 | [0238-product-of-array-except-self](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
