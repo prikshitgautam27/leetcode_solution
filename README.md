@@ -179,6 +179,7 @@ Happy Coding!
 | [0160-intersection-of-two-linked-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0202-happy-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0344-reverse-string/) | Easy |
@@ -218,6 +219,7 @@ Happy Coding!
 | [0144-binary-tree-preorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0394-decode-string/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0682-baseball-game](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0682-baseball-game/) | Easy |
@@ -512,6 +514,7 @@ Happy Coding!
 | [0146-lru-cache](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0355-design-twitter](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0355-design-twitter/) | Medium |
@@ -626,6 +629,7 @@ Happy Coding!
 | [0050-powx-n](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0050-powx-n/) | Medium |
 | [0143-reorder-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0394-decode-string/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
