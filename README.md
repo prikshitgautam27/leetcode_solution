@@ -145,6 +145,7 @@ Happy Coding!
 | [0438-find-all-anagrams-in-a-string](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0647-palindromic-substrings/) | Medium |
+| [0686-repeated-string-match](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0686-repeated-string-match/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0771-jewels-and-stones/) | Easy |
 | [0917-reverse-only-letters](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0917-reverse-only-letters/) | Easy |
@@ -665,6 +666,7 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0686-repeated-string-match](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0686-repeated-string-match/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -703,4 +705,16 @@ Happy Coding!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0051-n-queens/) | Hard |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0686-repeated-string-match](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0686-repeated-string-match/) | Medium |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0686-repeated-string-match](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0686-repeated-string-match/) | Medium |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0686-repeated-string-match](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0686-repeated-string-match/) | Medium |
 <!---LeetCode Topics End-->
