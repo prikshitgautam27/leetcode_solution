@@ -687,6 +687,7 @@ Happy Coding!
 | [0176-second-highest-salary](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0176-second-highest-salary/) | Medium |
 | [0584-find-customer-referee](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0584-find-customer-referee/) | Easy |
 | [1148-article-views-i](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1148-article-views-i/) | Easy |
+| [1683-invalid-tweets](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/prikshitgautam27/leetcode_solution/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
