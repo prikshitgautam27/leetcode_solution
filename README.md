@@ -97,6 +97,7 @@ Happy Coding!
 | [0435-non-overlapping-intervals](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0498-diagonal-traverse](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0498-diagonal-traverse/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -319,6 +320,7 @@ Happy Coding!
 | [0200-number-of-islands](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0498-diagonal-traverse](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0498-diagonal-traverse/) | Medium |
 | [0695-max-area-of-island](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0733-flood-fill/) | Easy |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/prikshitgautam27/leetcode_solution/tree/main/2304-minimum-path-cost-in-a-grid/) | Medium |
@@ -649,6 +651,7 @@ Happy Coding!
 | [0054-spiral-matrix](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0258-add-digits](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0258-add-digits/) | Easy |
+| [0498-diagonal-traverse](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0498-diagonal-traverse/) | Medium |
 | [0682-baseball-game](https://github.com/prikshitgautam27/leetcode_solution/tree/main/0682-baseball-game/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
